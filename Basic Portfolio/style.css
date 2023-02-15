@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+.titulo-destaque{
+    color: #22D4FD;
+}
+
+.main {
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} 
+
+.main__content {
+    width: 615px;
+}
+
+.tit {
+    font-family: 'Krona One';
+    font-size: 26px;
+}
+
+.subtit {
+    font-family: 'Montserrat';
+    font-size: 14px;
+}
